@@ -2,7 +2,7 @@
 Digitalised a multiplayer ( 3 to 6 players) boardgames with a lobby system using a Client-server Architecture with Frontend done using PyGame.
 
 ## Lobby system (Showing available games)
-![alt text]()
+![alt text](https://github.com/linusfoo/Elfenland/blob/main/available%20game.png)
 
 ## Board Design
 ![alt text](https://github.com/linusfoo/Elfenland/blob/main/elfenland-ui.png)
