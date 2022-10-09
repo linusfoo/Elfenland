@@ -5,5 +5,5 @@ Digitalised a multiplayer boardgames using a Client-server Architecture with Fro
 ![alt text](http://url/to/img.png)
 
 ## Concept-Model (Client):
-[embed]https://github.com/linusfoo/Elfenland/blob/main/Concept%20Model%20Client.pdf[/embed]
+https://github.com/linusfoo/Elfenland/blob/main/Concept%20Model%20Client.pdf
 
