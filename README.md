@@ -1,5 +1,5 @@
 # Elfenland
-Digitalised a multiplayer boardgames using a Client-server Architecture with Front-end done using PyGame.
+Digitalised a multiplayer ( 3 to 6 players) boardgames with a lobby system using a Client-server Architecture with Frontend done using PyGame.
 ![alt text](https://github.com/linusfoo/Elfenland/blob/main/elfenland-ui.png)
 
 ## Concept-Model (Server):
